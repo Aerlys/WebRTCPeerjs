@@ -11,7 +11,7 @@
     navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
 
     // PeerJS object
-    var peer = new Peer('', {host: 'localhost', port: 9000, path: '/myapp'});
+    var peer = new Peer('', {host: '10.67.126.52', port: 9000, path: '/myapp'});
 
     peer.on('open', function(){
       $('#my-id').text(peer.id);
