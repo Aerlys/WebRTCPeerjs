@@ -4,7 +4,7 @@ API node.js WebRTC
 
 Website : http://peerjs.com/
 
-Doc extensive, facile à intégrer, compatible chat/video&audio/file transfer.
-
+Doc ok
+Intégrable facilement ok
 Environnement de test ok
 Pas testé sur périph mobile (pas d'accès au réseau)
