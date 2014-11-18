@@ -20,7 +20,7 @@ Doc ok (beaucoup de doc)
 Intégrable facilement ok
 Environnement de test ok (4-way conference, 2 way)
 Pas testé sur périph mobile (pas d'accès au réseau avec le téléphone, peut-être emprunter une tablette au support)
-Communauté moyenne (deux mains dev, last update 3 aout, seulement deux tickets en cours de résolution)
+Communauté moyenne (deux mains dev, last update 3 aout, seulement deux tickets en cours de résolution, mais fais partie d'un source code d'entreprise passé en open source)
 multistream/conference calls (grosse demande en ressourx)
 
 - Node-Webrtc
