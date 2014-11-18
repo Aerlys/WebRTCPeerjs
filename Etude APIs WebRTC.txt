@@ -10,9 +10,7 @@ Environnement de test ok
 Pas testé sur périph mobile (pas d'accès au réseau)
 Communauté moyenne (2 main dev, mais maj y'a 15j)
 
-Problemes :
-
-L'api ne supporte que du call person-to-person de base (Only 2 callers)
+Pas de support conférence à plus de deux de base (needs further testing, should be adaptable with the use of rooms-like behavior)
 
 - EasyRTC
 
