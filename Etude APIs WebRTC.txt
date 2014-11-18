@@ -8,3 +8,24 @@ Doc ok
 Intégrable facilement ok
 Environnement de test ok
 Pas testé sur périph mobile (pas d'accès au réseau)
+Communauté moyenne (2 main dev, mais maj y'a 15j)
+
+- EasyRTC
+
+GitHub : https://github.com/priologic/easyrtc
+
+Doc ok (beaucoup de doc)
+Intégrable facilement ok
+Environnement de test ok
+Pas testé sur périph mobile (pas d'accès au réseau)
+Communauté moyenne (moins que peer.js, deux mains dev, last update 3 aout)
+
+- Node-Webrtc
+
+GitHub : https://github.com/js-platform/node-webrtc/graphs/contributors
+
+Doc (très peu)
+Intégrable facilement en test
+Environnement de test non
+Pas testé sur périph mobile (pas d'accès au réseau)
+Communauté basse (1 main dev, en cours de dév => last update aujourd'hui)
