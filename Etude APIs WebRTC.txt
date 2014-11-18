@@ -6,7 +6,7 @@ Website : http://peerjs.com/ & https://github.com/peers
 
 Doc ok
 Intégrable facilement ok
-Environnement de test ok
+Environnement de test ok (2-way calling only)
 Pas testé sur périph mobile (pas d'accès au réseau avec le téléphone)
 Communauté moyenne (2 main dev, mais maj y'a 15j)
 
@@ -20,14 +20,20 @@ Doc ok (beaucoup de doc)
 Intégrable facilement ok
 Environnement de test ok (4-way conference, 2 way)
 Pas testé sur périph mobile (pas d'accès au réseau avec le téléphone, peut-être emprunter une tablette au support)
-Communauté moyenne (deux mains dev, last update 3 aout, seulement deux tickets en cours de résolution, mais fais partie d'un source code d'entreprise passé en open source)
-multistream/conference calls (grosse demande en ressourx)
+Communauté moyenne (Source code open source d'entreprise (priologic))
+multistream/conference calls (grosse demande en ressources)
+
+Néanmoins, annonce officielle :
+
+"EasyRTC Open Source is entering a maintenance mode after two years of active development. Going forward we will not be actively adding new features. We will be supporting bug fixes on a best efforts basis, including adapting to browser and WebRTC specification changes.
+
+Public release plans for EasyRTC iOS and Android native SDK's are scaled back."
 
 - Node-Webrtc
 
 GitHub : https://github.com/js-platform/node-webrtc
-Doc (très peu)
-Intégrable facilement en test
+Doc (très peu ?)
+Intégrable facilement en cours
 Environnement de test non
 Pas testé sur périph mobile (pas d'accès au réseau)
 Communauté basse (1 main dev, en cours de dév => last update aujourd'hui)
@@ -38,4 +44,8 @@ Doc (?)
 Intégrable facilement en cours
 Environnement de test non
 Pas testé sur périph mobile (pas d'accès au réseau)
-Communauté ? (un seul "dev dans sa cave", beaucoup de monde en follow/fork genre 4x plus que peer.js et easyRTC, beaucoup de modules pour des utilisations différentes)
+Communauté ? (un seul "dev dans sa cave", beaucoup de monde en follow/fork environ 4x plus que peer.js et easyRTC, beaucoup de modules pour des utilisations différentes, fait un peu fouilli)
+
+Native API's
+
+WebRTC Native Android (Beaucoup de choses à lire, j'éditerais plus tard)
