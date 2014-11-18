@@ -10,6 +10,10 @@ Environnement de test ok
 Pas testé sur périph mobile (pas d'accès au réseau)
 Communauté moyenne (2 main dev, mais maj y'a 15j)
 
+Problemes :
+
+L'api ne supporte que du call person-to-person de base (Only 2 callers)
+
 - EasyRTC
 
 GitHub : https://github.com/priologic/easyrtc
@@ -19,6 +23,7 @@ Intégrable facilement ok
 Environnement de test ok
 Pas testé sur périph mobile (pas d'accès au réseau)
 Communauté moyenne (moins que peer.js, deux mains dev, last update 3 aout)
+Allow multistream calls
 
 - Node-Webrtc
 
