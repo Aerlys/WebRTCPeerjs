@@ -21,7 +21,7 @@ Intégrable facilement ok
 Environnement de test ok
 Pas testé sur périph mobile (pas d'accès au réseau)
 Communauté moyenne (moins que peer.js, deux mains dev, last update 3 aout)
-Allow multistream calls
+Allow multistream/conference calls
 
 - Node-Webrtc
 
@@ -32,3 +32,11 @@ Intégrable facilement en test
 Environnement de test non
 Pas testé sur périph mobile (pas d'accès au réseau)
 Communauté basse (1 main dev, en cours de dév => last update aujourd'hui)
+
+- WebRTC-Experiment
+
+Doc (?)
+Intégrable facilement en cours
+Environnement de test non
+Pas testé sur périph mobile (pas d'accès au réseau)
+Communauté? (un seul dev dans sa cave, beaucoup de monde en follow/fork genre 4x plus que peer.js et easyRTC, beaucoup de modules pour des utilisations différentes)
