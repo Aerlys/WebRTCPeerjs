@@ -2,31 +2,30 @@ API node.js WebRTC
 
 - Peer.js
 
-Website : http://peerjs.com/
+Website : http://peerjs.com/ & https://github.com/peers
 
 Doc ok
 Intégrable facilement ok
 Environnement de test ok
-Pas testé sur périph mobile (pas d'accès au réseau)
+Pas testé sur périph mobile (pas d'accès au réseau avec le téléphone)
 Communauté moyenne (2 main dev, mais maj y'a 15j)
 
-Pas de support conférence à plus de deux de base (needs further testing, should be adaptable with the use of rooms-like behavior)
+Pas de support conférence à plus de deux de base (besoin de plus de tests, ca marchera probablement en adaptant l'api pour remplacer les call par user en call par room)
 
 - EasyRTC
 
-GitHub : https://github.com/priologic/easyrtc
+GitHub : https://github.com/priologic/easyrtc/ & http://easyrtc.com/
 
 Doc ok (beaucoup de doc)
 Intégrable facilement ok
-Environnement de test ok
-Pas testé sur périph mobile (pas d'accès au réseau)
-Communauté moyenne (moins que peer.js, deux mains dev, last update 3 aout)
-Allow multistream/conference calls
+Environnement de test ok (4-way conference, 2 way)
+Pas testé sur périph mobile (pas d'accès au réseau avec le téléphone, peut-être emprunter une tablette au support)
+Communauté moyenne (deux mains dev, last update 3 aout, seulement deux tickets en cours de résolution)
+multistream/conference calls (grosse demande en ressourx)
 
 - Node-Webrtc
 
-GitHub : https://github.com/js-platform/node-webrtc/graphs/contributors
-
+GitHub : https://github.com/js-platform/node-webrtc
 Doc (très peu)
 Intégrable facilement en test
 Environnement de test non
@@ -39,4 +38,4 @@ Doc (?)
 Intégrable facilement en cours
 Environnement de test non
 Pas testé sur périph mobile (pas d'accès au réseau)
-Communauté ? (un seul dev dans sa cave, beaucoup de monde en follow/fork genre 4x plus que peer.js et easyRTC, beaucoup de modules pour des utilisations différentes)
+Communauté ? (un seul "dev dans sa cave", beaucoup de monde en follow/fork genre 4x plus que peer.js et easyRTC, beaucoup de modules pour des utilisations différentes)
