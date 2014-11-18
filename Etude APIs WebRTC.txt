@@ -39,4 +39,4 @@ Doc (?)
 Intégrable facilement en cours
 Environnement de test non
 Pas testé sur périph mobile (pas d'accès au réseau)
-Communauté? (un seul dev dans sa cave, beaucoup de monde en follow/fork genre 4x plus que peer.js et easyRTC, beaucoup de modules pour des utilisations différentes)
+Communauté ? (un seul dev dans sa cave, beaucoup de monde en follow/fork genre 4x plus que peer.js et easyRTC, beaucoup de modules pour des utilisations différentes)
