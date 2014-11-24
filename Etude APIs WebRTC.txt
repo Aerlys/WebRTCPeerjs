@@ -66,5 +66,5 @@ Compatible android app with WebRTC (Crée un browser in-app avec un Chromium maj)
 License BSD 3 Clause (Open source)
 Toujours en dev (Beta 10 vient de sortir)
 L'exemple simple de WebRTC est en 2-way call, mais comme peerjs, ça doit être facilement adaptable (rooms), il utilise d'ailleurs PeerJS comme api node.js
-
 Tiré de la doc de l'app test => "This application only works between two clients, but can be extended to multiple clients fairly easily."   
+Tests : Impossible de faire tourner un émulateur Android correctement (probablement un problème de ressources pc, à tester sur mon ordinateur personnel dans la semaine)
