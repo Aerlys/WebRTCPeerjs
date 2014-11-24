@@ -48,4 +48,4 @@ Communauté ? (un seul "dev dans sa cave", beaucoup de monde en follow/fork envir
 
 Native API's
 
-WebRTC Native Android (Beaucoup de choses à lire, j'éditerais plus tard)
+Libjingle (http://www.webrtc.org/reference/native-apis#TOC-Reference) (Beaucoup de choses à lire et à dire, j'éditerais plus tard)
