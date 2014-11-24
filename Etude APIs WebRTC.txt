@@ -48,4 +48,23 @@ Communauté ? (un seul "dev dans sa cave", beaucoup de monde en follow/fork envir
 
 Native API's
 
-Libjingle (http://www.webrtc.org/reference/native-apis#TOC-Reference) (Beaucoup de choses à lire et à dire, j'éditerais plus tard)
+Libjingle (http://www.webrtc.org/reference/native-apis#TOC-Reference) 
+
+Doc somewhat ok (+ mobile application d'exemple)
+Repository du projet un peu dur à "comprendre"
+License open source (même texte que BSD 3 mais sans nom quelconque)
+Toujours en dev
+Pas encore eu l'occasion de tester l'application demo (en cours)
+
+
+- Crosswalk 
+
+Website : https://github.com/crosswalk-project/crosswalk-website & https://crosswalk-project.org
+
+Doc ok (extensive, avec exemples)
+Compatible android app with WebRTC (Crée un browser in-app avec un Chromium maj)
+License BSD 3 Clause (Open source)
+Toujours en dev (Beta 10 vient de sortir)
+L'exemple simple de WebRTC est en 2-way call, mais comme peerjs, ça doit être facilement adaptable (rooms), il utilise d'ailleurs PeerJS comme api node.js
+
+Tiré de la doc de l'app test => "This application only works between two clients, but can be extended to multiple clients fairly easily."   
