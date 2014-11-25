@@ -22,12 +22,19 @@ Environnement de test ok (4-way conference, 2 way)
 Pas testé sur périph mobile (pas d'accès au réseau avec le téléphone, peut-être emprunter une tablette au support)
 Communauté moyenne (Source code open source d'entreprise (priologic))
 multistream/conference calls (grosse demande en ressources)
+Messaging via socket.io (websockets), gère les sockets extérieurs s'il n'a pas à les créer (utile pour l'auth ou autre)
 
 Néanmoins, annonce officielle :
 
 "EasyRTC Open Source is entering a maintenance mode after two years of active development. Going forward we will not be actively adding new features. We will be supporting bug fixes on a best efforts basis, including adapting to browser and WebRTC specification changes.
 
 Public release plans for EasyRTC iOS and Android native SDK's are scaled back."
+
+-jssip
+
+//A écrire
+
+-
 
 - Node-Webrtc
 
@@ -45,6 +52,8 @@ Intégrable facilement en cours
 Environnement de test non
 Pas testé sur périph mobile (pas d'accès au réseau)
 Communauté ? (un seul "dev dans sa cave", beaucoup de monde en follow/fork environ 4x plus que peer.js et easyRTC, beaucoup de modules pour des utilisations différentes, fait un peu fouilli)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Native API's
 
@@ -68,3 +77,5 @@ Toujours en dev (Beta 10 vient de sortir)
 L'exemple simple de WebRTC est en 2-way call, mais comme peerjs, ça doit être facilement adaptable (rooms), il utilise d'ailleurs PeerJS comme api node.js
 Tiré de la doc de l'app test => "This application only works between two clients, but can be extended to multiple clients fairly easily."   
 Tests : Impossible de faire tourner un émulateur Android correctement (probablement un problème de ressources pc, à tester sur mon ordinateur personnel dans la semaine)
+
+Les autres API sont payantes (ou semi-free mais uniquement pour du 2-way et uniquement sur les serveurs fournis)
